@@ -112,4 +112,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
+},
+{
+    "name": "123",
+    "address": "https://anisette-v3-server-mgat.onrender.com"
 }
